@@ -1,0 +1,48 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de compilação e logs
+bin/
+target/
+.log
+
+# Diretórios de dependências
+lib/
+libs/
+
+# Eclipse
+.metadata
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos do Maven
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Arquivos de configuração do Maven
+.idea_modules/
+
+# Arquivos do Gradle
+.gradle/
+build/
+
+# Arquivos de configuração do Gradle
+!gradle-wrapper.jar
+
+# Arquivos de cache
+.gradle/
+.caches/
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+Thumbs.db
